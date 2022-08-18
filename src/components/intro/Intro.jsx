@@ -37,30 +37,32 @@ const Intro = () => {
           and trial and error. I published Github in order to educate myself in
           the field of cyber security not only from a book but also from people.
           <br />
-          👉
-          <a
-            href="https://github.com/FurkanTsdmr/ETIK-HACKER/blob/main/K%C4%B0TAP.md"
-            target={"_blank"}
-            rel="noreferrer"
-          >
-            Ethichal Hacker Hand Book
-          </a>
-          👉
-          <a
-            href="https://www.linkedin.com/in/furkan-tasdemir/"
-            target={"_blank"}
-            rel="noreferrer"
-          >
-            Linkedin
-          </a>
-          👉
-          <a
-            href="https://github.com/FurkanTsdmr"
-            target={"_blank"}
-            rel="noreferrer"
-          >
-            Github
-          </a>
+          <div className="under">
+            👇
+            <a
+              href="https://github.com/FurkanTsdmr/ETIK-HACKER/blob/main/K%C4%B0TAP.md"
+              target={"_blank"}
+              rel="noreferrer"
+            >
+              Ethichal Hacker Hand Book
+            </a>
+            👇
+            <a
+              href="https://www.linkedin.com/in/furkan-tasdemir/"
+              target={"_blank"}
+              rel="noreferrer"
+            >
+              Linkedin
+            </a>
+            👇
+            <a
+              href="https://github.com/FurkanTsdmr"
+              target={"_blank"}
+              rel="noreferrer"
+            >
+              Github
+            </a>
+          </div>
         </p>
       </div>
     </AnimationOnScroll>

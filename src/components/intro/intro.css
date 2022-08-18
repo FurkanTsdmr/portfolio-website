@@ -97,8 +97,9 @@ i-img{
 
 .descc{
     text-align: center;
-    flex: 1;
+
+}
+.under{
     display: flex;
-    margin-bottom: 50px;
-    color: #333;
+    flex-direction: column;
 }
