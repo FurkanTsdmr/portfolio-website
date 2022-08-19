@@ -1,7 +1,7 @@
 import "./contact.css";
-import Phone from "../img/phone.png";
-import Email from "../img/email.png";
-import Address from "../img/addres.png";
+import Phone from "../../img/phone.png";
+import Email from "../../img/email.png";
+import Address from "../../img/addres.png";
 
 import { AnimationOnScroll } from "react-animation-on-scroll";
 

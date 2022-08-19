@@ -7,6 +7,7 @@ function Layout() {
     <nav className="comp">
       <Link to="/">AnaSayfa</Link>
       <Link to="/about">About</Link>
+      <Link to="/ProductList">ProductList</Link>
       <Link to="/Contact">Contact</Link>
     </nav>
   );

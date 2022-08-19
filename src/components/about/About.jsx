@@ -1,10 +1,10 @@
 import React from "react";
 import "./about.css";
-import Award from "../img/award.png";
-import Robot from "../img/robot.png";
-import Space from "../img/space1.png";
-import Space2 from "../img/space2.png";
-import Space3 from "../img/space3.png";
+import Award from "../../img/award.png";
+import Robot from "../../img/robot.png";
+import Space from "../../img/space1.png";
+import Space2 from "../../img/space2.png";
+import Space3 from "../../img/space3.png";
 
 import { AnimationOnScroll } from "react-animation-on-scroll";
 
